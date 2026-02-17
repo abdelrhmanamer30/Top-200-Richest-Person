@@ -1,0 +1,201 @@
+S. No.,Rank,Name,Age,Country,Networth,Industry
+1,1,Bernard Arnault & family,75,France,$233 B,Fashion & Retail
+2,2,Elon Musk,52,United States,$195 B,Automotive
+3,3,Jeff Bezos,60,United States,$194 B,Technology
+4,4,Mark Zuckerberg,39,United States,$177 B,Technology
+5,5,Larry Ellison,79,United States,$141 B,Technology
+6,6,Warren Buffett,93,United States,$133 B,Finance & Investments
+7,7,Bill Gates,68,United States,$128 B,Technology
+8,8,Steve Ballmer,68,United States,$121 B,Technology
+9,9,Mukesh Ambani,66,India,$116 B,Diversified
+10,10,Larry Page,51,United States,$114 B,Technology
+11,11,Sergey Brin,50,United States,$110 B,Technology
+12,12,Michael Bloomberg,82,United States,$106 B,Finance & Investments
+13,13,Amancio Ortega,88,Spain,$103 B,Fashion & Retail
+14,14,Carlos Slim Helu & family,84,Mexico,$102 B,Telecom
+15,15,Francoise Bettencourt Meyers & family,70,France,$99.5 B,Fashion & Retail
+16,16,Michael Dell,59,United States,$91 B,Technology
+17,17,Gautam Adani,61,India,$84 B,Diversified
+18,18,Jim Walton & family,75,United States,$78.4 B,Fashion & Retail
+19,19,Rob Walton & family,79,United States,$77.4 B,Fashion & Retail
+20,20,Jensen Huang,61,United States,$77 B,Technology
+21,21,Alice Walton,74,United States,$72.3 B,Fashion & Retail
+22,22,David Thomson & family,66,Canada,$67.8 B,Media & Entertainment
+23,23,Julia Koch & family,61,United States,$64.3 B,Diversified
+24,24,Zhong Shanshan,69,China,$62.3 B,Food & Beverage
+25,25,Charles Koch & family,88,United States,$58.5 B,Diversified
+26,26,Giovanni Ferrero,59,Italy,$43.8 B,Food & Beverage
+27,27,Prajogo Pangestu,79,Indonesia,$43.4 B,Diversified
+28,27,Zhang Yiming,40,China,$43.4 B,Technology
+29,29,Tadashi Yanai & family,75,Japan,$42.8 B,Fashion & Retail
+30,30,Phil Knight & family,86,United States,$40.9 B,Fashion & Retail
+31,31,Mark Mateschitz,31,Austria,$39.6 B,Food & Beverage
+32,32,Klaus-Michael Kuehne,86,Germany,$39.2 B,Logistics
+33,33,Colin Huang,44,China,$38.9 B,Technology
+34,34,Stephen Schwarzman,77,United States,$38.8 B,Finance & Investments
+35,35,Jacqueline Mars,84,United States,$38.5 B,Food & Beverage
+36,35,John Mars,88,United States,$38.5 B,Food & Beverage
+37,37,Dieter Schwarz,84,Germany,$38 B,Fashion & Retail
+38,38,Li Ka-shing,95,Hong Kong,$37.3 B,Diversified
+39,39,Shiv Nadar,78,India,$36.9 B,Technology
+40,40,Alain Wertheimer,75,France,$36.8 B,Fashion & Retail
+41,40,Gerard Wertheimer,73,France,$36.8 B,Fashion & Retail
+42,42,Ken Griffin,55,United States,$36.4 B,Finance & Investments
+43,43,MacKenzie Scott,53,United States,$35.6 B,Technology
+44,44,Thomas Peterffy,79,United States,$34 B,Finance & Investments
+45,45,Reinhold Wuerth & family,88,Germany,$33.6 B,Manufacturing
+46,46,William Ding,52,China,$33.5 B,Technology
+47,46,Savitri Jindal & family,74,India,$33.5 B,Metals & Mining
+48,48,Gianluigi Aponte,83,Switzerland,$33.1 B,Logistics
+49,48,Rafaela Aponte-Diamant,79,Switzerland,$33.1 B,Logistics
+50,50,Changpeng Zhao,47,Canada,$33 B,Finance & Investments
+51,51,Masayoshi Son,66,Japan,$32.7 B,Finance & Investments
+52,52,Len Blavatnik,66,United States,$32.1 B,Diversified
+53,53,Miriam Adelson & family,78,United States,$32 B,Gambling & Casinos
+54,54,François Pinault & family,87,France,$31.6 B,Fashion & Retail
+55,55,Jim Simons,85,United States,$31.4 B,Finance & Investments
+56,56,Gina Rinehart,70,Australia,$30.8 B,Metals & Mining
+57,57,Ma Huateng,52,China,$30.2 B,Technology
+58,58,Abigail Johnson,62,United States,$29 B,Finance & Investments
+59,59,Vagit Alekperov,73,Russia,$28.6 B,Energy
+60,60,Eduardo Saverin,42,Brazil,$28 B,Technology
+61,60,Lukas Walton,37,United States,$28 B,Fashion & Retail
+62,62,Germán Larrea Mota Velasco & family,70,Mexico,$27.9 B,Metals & Mining
+63,63,Lee Shau Kee,96,Hong Kong,$27.7 B,Real Estate
+64,64,Jeff Yass,65,United States,$27.6 B,Finance & Investments
+65,65,Andrea Pignataro,53,Italy,$27.5 B,Finance & Investments
+66,66,Low Tuck Kwong,75,Indonesia,$27.4 B,Energy
+67,66,Leonid Mikhelson & family,68,Russia,$27.4 B,Energy
+68,68,Stefan Quandt,57,Germany,$27.3 B,Automotive
+69,69,Dilip Shanghvi,68,India,$26.7 B,Healthcare
+70,70,Vladimir Lisin,67,Russia,$26.6 B,Metals & Mining
+71,71,R. Budi Hartono,83,Indonesia,$26.5 B,Finance & Investments
+72,71,Susanne Klatten,61,Germany,$26.5 B,Automotive
+73,73,"Thomas Frist, Jr. & family",85,United States,$26.2 B,Healthcare
+74,73,Daniel Gilbert,62,United States,$26.2 B,Finance & Investments
+75,75,Iris Fontbona & family,81,Chile,$25.7 B,Metals & Mining
+76,76,Emmanuel Besnier,53,France,$25.5 B,Food & Beverage
+77,76,Michael Hartono,84,Indonesia,$25.5 B,Manufacturing
+78,76,Alexey Mordashov & family,58,Russia,$25.5 B,Metals & Mining
+79,79,"John Menard, Jr.",84,United States,$25.2 B,Fashion & Retail
+80,80,He Xiangjian & family,81,China,$25.1 B,Manufacturing
+81,81,Jack Ma,59,China,$24.5 B,Technology
+82,81,Elaine Marshall & family,81,United States,$24.5 B,Diversified
+83,83,Autry Stephens,86,United States,$24.3 B,Energy
+84,84,Eyal Ofer,73,Israel,$24 B,Diversified
+85,85,Vladimir Potanin,63,Russia,$23.7 B,Metals & Mining
+86,86,Gennady Timchenko,71,Russia,$23.4 B,Energy
+87,87,Takemitsu Takizaki,78,Japan,$23.1 B,Manufacturing
+88,88,Vinod Adani,75,Cyprus,$23 B,Diversified
+89,89,Robin Zeng,55,Hong Kong,$22.9 B,Automotive
+90,90,Cyrus Poonawalla,82,India,$21.3 B,Healthcare
+91,91,Andrey Melnichenko & family,52,Russia,$21.1 B,Metals & Mining
+92,92,Diane Hendricks,77,United States,$20.9 B,Construction & Engineering
+93,92,Kushal Pal Singh,92,India,$20.9 B,Real Estate
+94,94,Vicky Safra & family,71,Brazil,$20.6 B,Finance & Investments
+95,94,Eric Schmidt,68,United States,$20.6 B,Technology
+96,94,David Tepper,66,United States,$20.6 B,Finance & Investments
+97,97,Steve Cohen,67,United States,$19.8 B,Finance & Investments
+98,98,Kumar Birla,56,India,$19.7 B,Diversified
+99,99,Rick Cohen & family,71,United States,$19.6 B,Technology
+100,100,Rupert Murdoch & family,93,United States,$19.5 B,Media & Entertainment
+101,101,Andrew Forrest & family,62,Australia,$19 B,Metals & Mining
+102,102,Harold Hamm & family,78,United States,$18.5 B,Energy
+103,103,Dustin Moskovitz,39,United States,$18.3 B,Technology
+104,104,Donald Bren,91,United States,$18 B,Real Estate
+105,104,Renata Kellnerova & family,56,Czech Republic,$18 B,Finance & Investments
+106,104,Michael Platt,56,United Kingdom,$18 B,Finance & Investments
+107,107,Radhakishan Damani,69,India,$17.6 B,Fashion & Retail
+108,108,John Fredriksen,79,Cyprus,$16.9 B,Logistics
+109,109,Eric Li,60,China,$16.8 B,Automotive
+110,110,Stefan Persson,76,Sweden,$16.6 B,Fashion & Retail
+111,111,James Ratcliffe,71,United Kingdom,$16.5 B,Manufacturing
+112,111,Harry Triguboff,91,Australia,$16.5 B,Real Estate
+113,113,Jorge Paulo Lemann & family,84,Brazil,$16.4 B,Food & Beverage
+114,113,Lakshmi Mittal,73,India,$16.4 B,Metals & Mining
+115,115,Ravi Jaipuria,69,India,$16.2 B,Food & Beverage
+116,115,Stanley Kroenke,76,United States,$16.2 B,Sports
+117,117,Jan Koum,48,United States,$16.1 B,Technology
+118,118,Karl Albrecht Jr. & family,76,Germany,$15.9 B,Fashion & Retail
+119,118,Beate Heister,73,Germany,$15.9 B,Fashion & Retail
+120,120,Idan Ofer,68,Israel,$15.8 B,Diversified
+121,121,Nicolas Puech,81,France,$15.6 B,Fashion & Retail
+122,122,Pavel Durov,39,United Arab Emirates,$15.5 B,Technology
+123,122,Qin Yinglin,58,China,$15.5 B,Food & Beverage
+124,124,Ray Dalio,74,United States,$15.4 B,Finance & Investments
+125,125,Philip Anschutz,84,United States,$15.3 B,Finance & Investments
+126,126,Leonard Lauder,91,United States,$15.1 B,Fashion & Retail
+127,126,Li Xiting,73,Singapore,$15.1 B,Healthcare
+128,126,Peter Woo,77,Hong Kong,$15.1 B,Real Estate
+129,129,Andreas von Bechtolsheim & family,68,Germany,$14.8 B,Technology
+130,130,George Kaiser,81,United States,$14.6 B,Energy
+131,131,Wang Chuanfu,58,China,$14.2 B,Automotive
+132,132,Charlene de Carvalho-Heineken & family,69,Netherlands,$14.1 B,Food & Beverage
+133,132,David Duffield,83,United States,$14.1 B,Technology
+134,132,Henry Samueli,69,United States,$14.1 B,Technology
+135,135,"Theo Albrecht, Jr. & family",73,Germany,$14 B,Fashion & Retail
+136,135,Leon Black,72,United States,$14 B,Finance & Investments
+137,137,Jerry Jones,81,United States,$13.8 B,Sports
+138,137,Wang Wei,53,China,$13.8 B,Service
+139,139,David Green & family,82,United States,$13.7 B,Fashion & Retail
+140,140,James Dyson,76,United Kingdom,$13.6 B,Manufacturing
+141,140,David Sun,72,United States,$13.6 B,Technology
+142,140,John Tu,82,United States,$13.6 B,Technology
+143,140,Christy Walton,75,United States,$13.6 B,Fashion & Retail
+144,144,Dang Yanbao,51,China,$13.4 B,Metals & Mining
+145,144,Aliko Dangote,66,Nigeria,$13.4 B,Manufacturing
+146,144,Ricardo Salinas Pliego & family,68,Mexico,$13.4 B,Fashion & Retail
+147,144,Alisher Usmanov,70,Russia,$13.4 B,Metals & Mining
+148,148,Mike Cannon-Brookes,44,Australia,$13.3 B,Technology
+149,148,Uday Kotak,65,India,$13.3 B,Finance & Investments
+150,150,Mikhail Fridman,59,Russia,$13.1 B,Energy
+151,150,Joseph Lau,72,Hong Kong,$13.1 B,Real Estate
+152,152,Scott Farquhar,44,Australia,$13 B,Technology
+153,153,Laurene Powell Jobs & family,60,United States,$12.8 B,Technology
+154,154,Goh Cheng Liang,96,Singapore,$12.7 B,Manufacturing
+155,154,George Roberts,80,United States,$12.7 B,Finance & Investments
+156,156,David Cheriton,73,Canada,$12.6 B,Technology
+157,156,Jeffery Hildebrand,65,United States,$12.6 B,Energy
+158,156,Georg Stumpf,51,Austria,$12.6 B,Diversified
+159,159,Dhanin Chearavanont,84,Thailand,$12.5 B,Diversified
+160,159,Anders Holch Povlsen,51,Denmark,$12.5 B,Fashion & Retail
+161,161,Israel Englander,75,United States,$12.4 B,Finance & Investments
+162,162,Shahid Khan,73,United States,$12.2 B,Automotive
+163,162,Johann Rupert & family,73,South Africa,$12.2 B,Fashion & Retail
+164,164,Hasso Plattner & family,80,Germany,$12.1 B,Technology
+165,165,Kwong Siu-hing,94,Hong Kong,$12 B,Real Estate
+166,165,Azim Premji,78,India,$12 B,Technology
+167,167,"Henry Nicholas, III.",64,United States,$11.9 B,Technology
+168,168,"Edward Johnson, IV.",59,United States,$11.8 B,Finance & Investments
+169,169,John Doerr,72,United States,$11.7 B,Finance & Investments
+170,169,Henry Kravis,80,United States,$11.7 B,Finance & Investments
+171,169,Eric Smidt,64,United States,$11.7 B,Fashion & Retail
+172,172,Lu Xiangyang,61,China ,$11.6 B,Automotive
+173,173,Andrew Beal,71,United States,$11.5 B,Finance & Investments
+174,173,Jay Y. Lee,55,South Korea,$11.5 B,Technology
+175,173,Michael Rubin,51,United States,$11.5 B,Fashion & Retail
+176,176,Robert Kuok,100,Malaysia,$11.4 B,Diversified
+177,177,Giorgio Armani,89,Italy,$11.3 B,Fashion & Retail
+178,177,Jay Chaudhry,64,United States,$11.3 B,Technology
+179,177,Charoen Sirivadhanabhakdi,79,Thailand,$11.3 B,Food & Beverage
+180,180,Brian Armstrong,41,United States,$11.2 B,Finance & Investments
+181,180,Ernesto Bertarelli,58,Switzerland,$11.2 B,Healthcare
+182,180,Bubba Cathy,69,United States,$11.2 B,Food & Beverage
+183,180,Dan Cathy,71,United States,$11.2 B,Food & Beverage
+184,180,Trudy Cathy White,68,United States,$11.2 B,Food & Beverage
+185,180,Lui Che Woo,95,Hong Kong,$11.2 B,Gambling & Casinos
+186,180,Wei Jianjun & family,60,China,$11.2 B,Automotive
+187,180,Sky Xu,40,China,$11.2 B,Fashion & Retail
+188,188,Melinda French Gates,59,United States,$11.1 B,Technology
+189,188,Robert Kraft,82,United States,$11.1 B,Sports
+190,190,Brian Chesky,42,United States,$11 B,Technology
+191,190,Barry Lam,74,Taiwan,$11 B,Technology
+192,190,Donald Newhouse,94,United States,$11 B,Media & Entertainment
+193,190,Mikhail Prokhorov,58,Russia,$11 B,Finance & Investments
+194,190,Manuel Villar,74,Philippines,$11 B,Real Estate
+195,195,Jiang Rensheng & family,70,China,$10.9 B,Healthcare
+196,195,Lei Jun,54,China,$10.9 B,Technology
+197,195,Georg Schaeffler,59,Germany,$10.9 B,Automotive
+198,195,Marcel Herrmann Telles & family,74, Brazil,$10.9 B,Food & Beverage
+199,199,David Velez & family,42,Colombia,$10.8 B,Finance & Investments
+200,200,Suleiman Kerimov & family,58,Russia,$10.7 B,Finance & Investments
